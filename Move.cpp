@@ -75,7 +75,7 @@ int main()
                         }
                         else
                         {
-                            cout << "snake brought u down by " << loss << "." << endl;
+                            cout << "Snake brought u down by " << loss << "." << endl;
                         }
                     }
                 }
@@ -91,7 +91,7 @@ int main()
         cin >> credit;
         if(credit == 'c' || credit == 'C')
         {
-            cout << "Hi.\nI am Ahmar, creator of this game.\nIt took me almost 3 hour to design and code this game.\nThis was one of my early GameDev projects.\nYou can download this game from Github, my username is *ahmarcode*.\nHope you enjoyed it, as it was for me to create it.\n";
+            cout << "Hi.\nI am Ahmar, creator of this game.\nIt took me almost 3 hour to design and code this game.\nThis was one of my early GameDev projects.\nYou can download this game from Github, Click here to download [source code + application] https://github.com/ahmarcode/Snake-n-Ladder \nHope you enjoyed it, as it was for me to creating.\n";
         }
     }   
     
